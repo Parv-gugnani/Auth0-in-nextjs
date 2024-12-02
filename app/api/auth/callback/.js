@@ -1,0 +1,1 @@
+// Auth0 will redirect the user to after a successful login.
